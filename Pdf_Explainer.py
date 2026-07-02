@@ -66,3 +66,7 @@ for q, a in st.session_state.QUE_ANS_list:
     st.write(f"**Que:** {q}")
     st.write(f"**Ans:** {a}")
     st.write("---"*10)
+    st.write("---"*10)
+    st.write(" "*10)
+st.write(" "*10)
+st.write("Faizan Mirza")
