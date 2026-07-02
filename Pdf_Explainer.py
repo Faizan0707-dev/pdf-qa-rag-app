@@ -69,4 +69,4 @@ for q, a in st.session_state.QUE_ANS_list:
     st.write("---"*10)
     st.write(" "*10)
 st.write(" "*10)
-st.write("HOST -->  Faizan Mirza")
+st.write("HOST --->  Faizan Mirza")
